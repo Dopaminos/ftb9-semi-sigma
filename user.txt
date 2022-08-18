@@ -1,1 +1,1 @@
-{"name":"dopaminos"}
+{"name":"dopaminos","chart-collection":["./crt-0-mta.txt"]}
